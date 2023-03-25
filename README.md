@@ -1,1 +1,1 @@
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=killpwnwriter)]
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=killpwnwriter)](https://github.com/killpwnwriter)
