@@ -1,7 +1,8 @@
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=killpwnwriter)](https://github.com/killpwnwriter)
+username=killpwnwriter&show_icons=true&theme=tokyonight&cache_seconds=1800&hide_title=true)-->
+<img align="right" src="https://github-readme-stats.vercel.app/api?username=killpwnwriter&show_icons=true&icon_color=805AD5&text_color=718096&bg_color=ffffff&hide_title=true" />
 目前职业
 
-> Bug Bounty Hunter / Pentester
+> Crawler Engineer  /  Pentester
 
 学习方向
 
@@ -10,3 +11,4 @@
 
 > 何须浅碧深红色
 > 自是花中第一流
+
